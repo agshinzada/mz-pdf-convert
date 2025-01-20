@@ -1,5 +1,6 @@
 {
-  "name": "pdf-to-excel",
+  "name": "mz-pdf-convert",
+  "description": "Order PDF to Excel is a project that converts order forms received in PDF format from stores into Excel files compatible with the ERP system.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
